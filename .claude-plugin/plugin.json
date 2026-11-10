@@ -1,0 +1,9 @@
+{
+  "name": "psicologia-drive",
+  "version": "0.1.0",
+  "description": "Work with the PsicologIA team Google Drive: file documents in the correct folder following _DRIVE_MAP_PSICOLOGIA, find documents, and download them.",
+  "author": {
+    "name": "Kenzo Delgado Barradas"
+  },
+  "keywords": ["psicologia", "google-drive", "filing", "team"]
+}

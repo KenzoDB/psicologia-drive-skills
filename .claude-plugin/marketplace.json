@@ -1,0 +1,13 @@
+{
+  "name": "psicologia-drive-skills",
+  "owner": {
+    "name": "Kenzo Delgado Barradas"
+  },
+  "plugins": [
+    {
+      "name": "psicologia-drive",
+      "source": "./",
+      "description": "Upload, find and download documents in the PsicologIA Google Drive, keeping the guides and the Drive map up to date."
+    }
+  ]
+}
